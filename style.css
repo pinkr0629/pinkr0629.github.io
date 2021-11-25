@@ -1,0 +1,24 @@
+.mydiv{
+    text-align:center;
+    background-color:palevioletred;
+}
+.button{
+        background-color: rgb(241, 185, 115);
+        border: none;
+}
+header{
+    text-align:right;
+    color: rgb(17, 17, 185);
+}
+footer{
+    text-align: right;
+    color: rgb(17, 17, 139);
+}
+.container{
+    text-align: center;
+    padding: 5% 5%;
+    background:palevioletred;
+}
+h2{
+    text-align: center;
+}
